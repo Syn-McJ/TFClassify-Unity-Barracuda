@@ -4,15 +4,15 @@ This is an example of using models trained with TensorFlow or ONNX in Unity appl
 
 Classify results:
 
-![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/classify1.jpg)
-![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/classify2.jpg)
+![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/classify1.png)
+![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/classify2.png)
 
 Detect results:
 
-![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/detect1.jpg)
-![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/detect2.jpg)
+![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/detect1.png)
+![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/detect2.png)
 
-If you're looking for similar example but using TensorflowSharp plugin instead of Barracuda, see my [previous repo] (https://github.com/Syn-McJ/TFClassify-Unity).
+If you're looking for similar example but using TensorflowSharp plugin instead of Barracuda, see my [previous repo](https://github.com/Syn-McJ/TFClassify-Unity).
 
 # How
 
