@@ -2,6 +2,8 @@
 
 This is an example of using models trained with TensorFlow or ONNX in Unity application for image classification and object detection. It uses [Barracuda inference engine](https://docs.unity3d.com/Packages/com.unity.barracuda@0.4/manual/index.html) - please note that Barracuda is still in development preview and changes frequently.
 
+More details in my [blogpost](https://classifai.net/blog/tensorflow-onnx-unity/).
+
 Classify results:
 
 ![](https://raw.githubusercontent.com/Syn-McJ/TFClassify-Unity-Barracuda/master/SampleImages/classify1.png)
@@ -29,7 +31,10 @@ For iOS, you might need to fix team settings and privacy request message for cam
 
 Barracuda repository might be found [here](https://github.com/Unity-Technologies/barracuda-release).
 
+# How to use your own model
+
+There are limited range of neural network architectures that I managed to get to run with Barracuda. [Read my blogpost](https://classifai.net/blog/tensorflow-onnx-unity/) to see what's working and what isn't.
 
 # Notes
 
-I'm neither Unity nor TensorFlow/ONNX expert, so if you found any problems with this example feel free to open an issue.
+I'm not a Unity expert, so if you found any problems with this example feel free to open an issue.
